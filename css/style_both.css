@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+  background-color: #fffdaf;
+  font-style: oblique;
+  font-family: fantasy;
+}
+
+h1{
+  color: #ff3796;
+  font-size: 100px;
+}
+
+p{
+  color: #00faac;
+  font-size: 50px;
+}
+
+ul{
+  color: #302387;
+  list-style-type: georgian;
+  display: inline-block;
+  text-align: center;
+  padding: 0;
+}
+
+li{
+  line-height: 100px;
+}
