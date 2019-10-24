@@ -19,7 +19,7 @@ _Not that we know of_
 
 ## Support and contact details
 
-_For issues contact: anita.k.kemp@gmail.com_
+_For issues please leave a comment on this repository. 
 
 ## Technologies Used
 
